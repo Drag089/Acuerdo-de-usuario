@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="TC2.ICO" type="image/x-icon">
+    <title>Acuerdo de Usuario</title>
+</head>
+<body>
+    <head>
+        <h1>Acuerdo de Usuario</h1>
+    </head>
+    <time>November 15, 2023</time>
+    <article>
+        <p>Bienvenido a Facefake Simple, una herramienta de procesamiento de imágenes y videos. Al utilizar nuestra herramienta, usted acepta los siguientes términos y condiciones:</p>
+        <ol>
+            <li>
+                Descargo de responsabilidad. La herramienta Facefake Simple se proporciona como esta y no garantizamos la exactitud, integridad o utilidad de las imágenes o videos procesadas producidas por nuestras herramientas. Este es un servicio que actualiza imágenes y videos. Nuestra plataforma proporciona herramientas y funciones que permiten a los usuarios mejorar y modificar sus rostros. Los usuarios deben tomar su propia discreción al utilizar esta plataforma y no somos responsables de ningún daño o pérdida causada por el uso de este servicio.
+            </li>
+            <li>
+                Responsabilidad del usuario. En cuanto al contenido subido, nuestra plataforma no asume ninguna responsabilidad por las imágenes, fotografías subidas por los usuarios. Es responsabilidad del usuario asegurarse de tener todos los permisos y derechos necesarios para usar y cargar imágenes. Cualquier reclamo o demanda relacionada con los derechos de propiedad intelectual de las imágenes cargadas es responsabilidad del usuario que subió la imagen.
+            </li>
+            <li>
+                Restricciones de edad y elegibilidad Las personas que accedan y utilicen nuestra Herramienta deben tener al menos 18 años de edad. Prohibimos expresamente el acceso y el uso de nuestra Herramienta a personas menores de 18 años (“Menores”).
+            </li>
+            <li>
+                Responsabilidades de los Usuarios respecto de Imágenes de Menores de Edad. Si un usuario sube fotos o imágenes de un menor o tenemos motivos para creer que la persona en la foto es un menor, nos reservamos el derecho de denunciar dicha actividad a las autoridades. Los usuarios son responsables de garantizar que tienen el derecho legal de cargar imágenes y cumplir con todas las leyes y regulaciones aplicables. Cualquier violación de esta política puede resultar en la cancelación de la cuenta del usuario y se pueden tomar acciones legales contra el usuario. "
+            </li>
+            <li>
+                Riesgos de contenido. Algunas imágenes o videos procesadas por Facefake Simple pueden ser ofensivas, inapropiadas u objetables. Al utilizar nuestras herramientas, usted reconoce y acepta los riesgos asociados con el procesamiento de dicho contenido y acepta que no somos responsables de ningún daño u obligación que surja del uso de nuestra herramienta o del contenido procesado por nuestra herramienta.
+            </li>
+            <li>
+                Contenido prohibido. Usted se compromete a no utilizar Facefake Simple para procesar imágenes o videos que sean difamatorias, discriminatorias, acosadoras, amenazantes o ilegales de otro modo.
+            </li>
+            <li>
+                Pago y facturación. El uso de Facefake Simple debe pagarse por adelantado y no es reembolsable. Puede elegir uno de nuestros métodos de pago disponibles. Nos reservamos el derecho de cambiar precios y métodos de pago en cualquier momento con previo aviso.
+            </li>
+            <li>
+                Modificación, Suspensión y Terminación. Nos reservamos el derecho de cambiar, suspender o cancelar Facefake Simple en cualquier momento y por cualquier motivo, incluidos, entre otros, falta de pago o incumplimiento de nuestros términos y condiciones, con o sin previo aviso.
+            </li>
+            <li>
+                Responsabilidad de distribución. Usted es el único responsable de la distribución de cualquier imagen o video que haya procesado con Facefake Simple, y no somos responsables de ningún daño o responsabilidad que pueda surgir de la distribución de dichas imágenes.
+            </li>
+            <li>
+                Indemnización. Usted acepta indemnizar y eximir de responsabilidad a Facefake Simple y a sus propietarios, funcionarios, empleados y agentes de y contra cualquier reclamo, responsabilidad, daño y gasto (incluidos los honorarios razonables de abogados) que surjan de su uso de nuestra herramienta o cualquier violación de estos términos y condiciones. 
+            </li>
+            <li>
+                Política de reembolso. Todas las transacciones y acciones realizadas a través de las herramientas del sitio web son definitivas y no reembolsables. Al utilizar Facefake Simple, usted confirma que ha leído, comprendido y aceptado estos términos y condiciones, incluidas las condiciones de pago y facturación.
+            </li>
+        </ol>
+    </article>
+</body>
+</html>
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    text-align: justify;
+    width: 58rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    margin-bottom: 2rem;
+}
+
